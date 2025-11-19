@@ -1,1 +1,4 @@
-commit 4
+
+commit 3
+>>>>>>> 1f467bf (3 commit)
+>>>>>>> test
